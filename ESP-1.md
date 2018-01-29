@@ -25,7 +25,7 @@ After performing First-Normal Form, a new table was generated: OrderDetail.
 **OrderDetail** (<b class="pk"><u class="fk">OrderNUmber</u>,ItemNumber</b>,Descrption, Quantity, CurrentPrice, SellingPrice,Amount)
 
 
-![](ESP-1-ERD-CustomerDetailsView.png)
+
 ![](ESP-1-ERD-CustomerOrderView.png )
 ----
 
