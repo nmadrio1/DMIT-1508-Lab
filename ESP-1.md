@@ -26,11 +26,7 @@ After performing First-Normal Form, a new table was generated: OrderDetail.
 
 
 
-![](ESP-1-ERD-CustomerOrderView.png )
-----
 
-### ERD 
-The Cutstomer view result table.
 
 ###2NF
 
