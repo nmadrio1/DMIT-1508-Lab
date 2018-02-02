@@ -34,7 +34,7 @@ After performing Zero-normal form, a single table (entity) was generated: **Empl
 
 ### ERD for Employee View
 
--![](ESP-1-Lab1 - EmployeeVIews.png)
+-![](ESP-1-ERD-SaleView.png)
 ----
 
 
