@@ -92,7 +92,7 @@ These are the tables/entities after normalizing the customer detail View.
 ### ERD for Book Title View
 
 
-![](ESP-1-ERD-BookTitleVIew.png)
+![](ESP-1-BookTitleVIew.png)
 
 
 
@@ -162,14 +162,14 @@ These are the tables/entities after normalizing the customer detail View.
 ### ERD for Sales View
 
 
-![](ESP-1-ERD-SaleVIew.png)
+![](ESP-1-SaleVIew.png)
 
 
 
 ### Merged ERD AREA
 
 
-![](ESP-1-ERD-Merge.png)
+![](ESP-1-Merge.png)
 
 
 
