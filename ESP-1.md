@@ -34,7 +34,7 @@ After performing Zero-normal form, a single table (entity) was generated: **Empl
 
 ### ERD for Employee View
 
--![](ESP-1-ERD-SaleView.png)
+-![](ESP-1-ERD-Employees.png)
 ----
 
 
@@ -95,7 +95,7 @@ These are the tables/entities after normalizing the customer detail View.
 ### ERD for Book Title View
 
 
--![](ESP-1-BookTitleVIew.png)
+-![](ESP-1-ERD-BookTitle.png)
 ----
 
 
@@ -165,14 +165,14 @@ These are the tables/entities after normalizing the customer detail View.
 ### ERD for Sales View
 
 
--![](ESP-1-SaleVIew.png)
+-![](ESP-1-ERD-SaleView.png)
 ----
 
 
 ### Merged ERD AREA
 
 
--![](ESP-1-Merge.png)
+-![](ESP-1-ERD-SaleMerge.png)
 
 ----
 
