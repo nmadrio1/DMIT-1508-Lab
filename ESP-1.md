@@ -34,10 +34,10 @@ After performing Zero-normal form, a single table (entity) was generated: **Empl
 
 ### ERD for Employee View
 
--![](ESP-1-ERD-EmployeeVIews.png )
+-![](EmployeeVIews.png )
 ----
 
-### ERD 
+
 The Cutstomer view result table.
 
 ## 2nd Diagram
