@@ -32,8 +32,9 @@ After performing Zero-normal form, a single table (entity) was generated: **Empl
 
 **Nothing Changes**
 
-## ERD for Employee View
--![](ESP-1-ERD-EmployeeVIews.png )
+### ERD for Employee View
+
+-![](ESP-1-ERD-EmployeeVIews.png)
 
 
 ## 2nd Diagram
@@ -88,8 +89,10 @@ These are the tables/entities after normalizing the customer detail View.
 
 
 
-## ERD for Book Title View
--![](ESP-1-ERD-BookTitleVIew.png )
+### ERD for Book Title View
+
+
+-![](ESP-1-ERD-BookTitleVIew.png)
 
 
 
@@ -156,14 +159,17 @@ These are the tables/entities after normalizing the customer detail View.
 **CustomerDetail** (<b class="pk">CustomerNumber</b>,CustomerFirstName, CustomerLastName, Address, PostalCode, City, Province)
 
 
-## ERD for Sales View
--![](ESP-1-ERD-SaleVIew.png )
+### ERD for Sales View
+
+
+-![](ESP-1-ERD-SaleVIew.png)
 
 
 
 ### Merged ERD AREA
 
--![](ESP-1-ERD-Merge.png )
+
+-![](ESP-1-ERD-Merge.png)
 
 
 
